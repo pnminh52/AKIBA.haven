@@ -24,7 +24,7 @@
           "https://bizweb.dktcdn.net/100/477/898/products/44-1714036224135.jpg?v=1714036241727",
           "https://bizweb.dktcdn.net/100/477/898/products/43-1714036224133.jpg?v=1714036239593"
         ],
-        "created_at": "2023-10-01T12:00:00Z",
+        "created_at": "2023-2-01T12:00:00Z",
         "updated_at": "2023-10-01T12:00:00Z",
 
         "sources": [
@@ -165,7 +165,7 @@
         ]
       },
       {
-        "id": 4,
+        "id": 5,
         "purchased":201,
 
         "type": "Đặt trước",
@@ -176,7 +176,7 @@
         "stock": 100,
         "rating": 4.5,
         "price":850000,
-        "price_sale": 650000,
+        "price_sale": 799000,
         "material": "PVC, ABS",
         "height": "260mm",
         "release": "T5/2025",
@@ -207,7 +207,7 @@
         ]
       },
       {
-        "id": 4,
+        "id": 6,
         "purchased":3823,
 
         "type": "Đặt trước",
@@ -249,7 +249,7 @@
         ]
       },
       {
-        "id": 4,
+        "id": 7,
         "purchased":230,
 
         "type": "Đặt hàng",

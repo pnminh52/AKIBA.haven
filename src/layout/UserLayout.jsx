@@ -9,7 +9,7 @@ const UserLayout = () => {
   return (
     <div className='bg-gray-100 space-y-4'>
      <div>
-      {/* <Header3 /> */}
+      <Header3 />
      <Header1 />
      <Header2 />
      </div>
