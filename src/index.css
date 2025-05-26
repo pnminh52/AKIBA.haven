@@ -1,0 +1,8 @@
+@import "tailwindcss";
+.font-ancizar {
+    font-family: 'Ancizar Serif', serif;
+  }
+  /* Trong file index.css hoặc App.css */
+.text-stroke {
+  -webkit-text-stroke: 0.5px white;
+}
