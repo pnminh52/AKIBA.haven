@@ -1,95 +1,16 @@
 {
     "figure": [
       {
-        "id": 1,
-        "purchased":12000,
-        "type": "Còn hàng",
-        "name": "Hatsune Miku GT Project Racing Miku 2023 15th Anniversary Ver. 1/6 Complete Figure(Good Smile Racing)",
-        "status": "Còn hàng",
-        "brand": "Good Smile Racing ",
-        "category": "Category X",
-        "stock": 10,
-        "rating": 4.5,
-        "price":950000,
-        "material": "PVC, ABS",
-        "height": "260mm",
-        "release": "T5/2025",
-        "reviews": 5,
-        "description": "A simple figure",
-        "image": "https://bizweb.dktcdn.net/100/477/898/products/38-1714036224124.jpg?v=1714036231200",
-        "addition_images": [
-          "https://bizweb.dktcdn.net/100/477/898/products/39-1714036224126.jpg?v=1714036232490",
-          "https://bizweb.dktcdn.net/100/477/898/products/41-1714036224130.jpg?v=1714036236057",
-          "https://bizweb.dktcdn.net/100/477/898/products/42-1714036224132.jpg?v=1714036238437",
-          "https://bizweb.dktcdn.net/100/477/898/products/44-1714036224135.jpg?v=1714036241727",
-          "https://bizweb.dktcdn.net/100/477/898/products/43-1714036224133.jpg?v=1714036239593"
-        ],
-        "created_at": "2023-2-01T12:00:00Z",
-        "updated_at": "2023-10-01T12:00:00Z",
-
-        "sources": [
-          {
-            "origin": "Nhật",
-            "price": 120.00,
-            "stock": 5
-          },
-          {
-            "origin": "Trung",
-            "price": 95.00,
-            "stock": 5
-          }
-        ]
-      },
-      {
-        "id": 2,
-        "purchased":12300,
-        "type": "Còn hàng",
-        "name": "MÔ HÌNH Hatsune Miku - Vocaloid - Piapro Characters - Hatsune Miku Wonderland Series - Rapunzel (Taito) FIGURE CHÍNH HÃNG",
-        "status": "Còn hàng",
-        "brand": "TAITO",
-        "category": "Category X",
-        "stock": 10,
-        "rating": 4.5,
-        "price":850000,
-        "material": "PVC, ABS",
-        "height": "260mm",
-        "release": "T5/2025",
-        "reviews": 5,
-        "description": "A simple figure",
-        "image": "https://bizweb.dktcdn.net/thumb/1024x1024/100/477/898/products/2898175-1740171869652.jpg?v=1740171878610",
-        "addition_images": [
-          "https://bizweb.dktcdn.net/100/477/898/products/39-1714036224126.jpg?v=1714036232490",
-          "https://bizweb.dktcdn.net/100/477/898/products/41-1714036224130.jpg?v=1714036236057",
-          "https://bizweb.dktcdn.net/100/477/898/products/42-1714036224132.jpg?v=1714036238437",
-          "https://bizweb.dktcdn.net/100/477/898/products/44-1714036224135.jpg?v=1714036241727",
-          "https://bizweb.dktcdn.net/100/477/898/products/43-1714036224133.jpg?v=1714036239593"
-        ],
-        "created_at": "2023-10-01T12:00:00Z",
-        "updated_at": "2023-10-01T12:00:00Z",
-
-        "sources": [
-          {
-            "origin": "Nhật",
-            "price": 120.00,
-            "stock": 5
-          },
-          {
-            "origin": "Trung",
-            "price": 95.00,
-            "stock": 5
-          }
-        ]
-      },
-      {
         "id": 3,
+        "trending": 6,
         "purchased":730,
 
-        "type": "Còn hàng",
+      
         "name": "MÔ HÌNH Hatsune Miku - Vocaloid - Piapro Characters - Hatsune Miku Wonderland Series - Cinderella (Taito) FIGURE CHÍNH HÃNG",
         "status": "Còn hàng",
         "brand": "TAITO",
         "category": "Category X",
-        "stock": 50,
+        "stock": 100,
         "rating": 4.5,
         "price":950000,
         "price_sale": 750000,
@@ -122,11 +43,95 @@
           }
         ]
       },
+    
+      {
+        "id": 2,
+        "purchased":12300,
+       
+        "name": "MÔ HÌNH Hatsune Miku - Vocaloid - Piapro Characters - Hatsune Miku Wonderland Series - Rapunzel (Taito) FIGURE CHÍNH HÃNG",
+        "status": "Hết hàng",
+        "brand": "TAITO",
+        "category": "Category X",
+        "stock": 0,
+        "rating": 4.5,
+        "price":850000,
+        "price_sale": 650000,
+        "material": "PVC, ABS",
+        "height": "260mm",
+        "release": "T5/2025",
+        "reviews": 5,
+        "description": "A simple figure",
+        "image": "https://bizweb.dktcdn.net/thumb/1024x1024/100/477/898/products/2898175-1740171869652.jpg?v=1740171878610",
+        "addition_images": [
+          "https://bizweb.dktcdn.net/100/477/898/products/39-1714036224126.jpg?v=1714036232490",
+          "https://bizweb.dktcdn.net/100/477/898/products/41-1714036224130.jpg?v=1714036236057",
+          "https://bizweb.dktcdn.net/100/477/898/products/42-1714036224132.jpg?v=1714036238437",
+          "https://bizweb.dktcdn.net/100/477/898/products/44-1714036224135.jpg?v=1714036241727",
+          "https://bizweb.dktcdn.net/100/477/898/products/43-1714036224133.jpg?v=1714036239593"
+        ],
+        "created_at": "2023-10-01T12:00:00Z",
+        "updated_at": "2023-10-01T12:00:00Z",
+
+        "sources": [
+          {
+            "origin": "Nhật",
+            "price": 120.00,
+            "stock": 5
+          },
+          {
+            "origin": "Trung",
+            "price": 95.00,
+            "stock": 5
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "trending": 2,
+        "purchased":12000,
+       
+        "name": "Hatsune Miku GT Project Racing Miku 2023 15th Anniversary Ver. 1/6 Complete Figure(Good Smile Racing)",
+        "status": "Còn hàng",
+        "brand": "Good Smile Racing ",
+        "category": "Category X",
+        "stock": 100,
+        "rating": 4.5,
+        "price":950000,
+        "material": "PVC, ABS",
+        "height": "260mm",
+        "release": "T5/2025",
+        "reviews": 5,
+        "description": "A simple figure",
+        "image": "https://bizweb.dktcdn.net/100/477/898/products/38-1714036224124.jpg?v=1714036231200",
+        "addition_images": [
+          "https://bizweb.dktcdn.net/100/477/898/products/39-1714036224126.jpg?v=1714036232490",
+          "https://bizweb.dktcdn.net/100/477/898/products/41-1714036224130.jpg?v=1714036236057",
+          "https://bizweb.dktcdn.net/100/477/898/products/42-1714036224132.jpg?v=1714036238437",
+          "https://bizweb.dktcdn.net/100/477/898/products/44-1714036224135.jpg?v=1714036241727",
+          "https://bizweb.dktcdn.net/100/477/898/products/43-1714036224133.jpg?v=1714036239593"
+        ],
+        "created_at": "2023-2-01T12:00:00Z",
+        "updated_at": "2023-10-01T12:00:00Z",
+
+        "sources": [
+          {
+            "origin": "Nhật",
+            "price": 120.00,
+            "stock": 5
+          },
+          {
+            "origin": "Trung",
+            "price": 95.00,
+            "stock": 5
+          }
+        ]
+      },
+     
       {
         "id": 4,
         "purchased":120,
 
-        "type": "Đặt trước",
+       
         "name": "MÔ HÌNH HATSUNE MIKU - VOCALOID - CHRISTMAS 2023 - LUMINASTA (SEGA) FIGURE CHÍNH HÃNG",
         "status": "Còn hàng",
         "brand": "SEGA",
@@ -168,7 +173,7 @@
         "id": 5,
         "purchased":201,
 
-        "type": "Đặt trước",
+       
         "name": "MÔ HÌNH Nendoroid Berserker/Morgan - Fate/Grand Đặt hàng - Nendoroid 2150 (Good Smile Company)FIGURE CHÍNH HÃNGG",
         "status": "Còn hàng",
         "brand": "Good Smile ",
@@ -210,8 +215,8 @@
         "id": 6,
         "purchased":3823,
 
-        "type": "Đặt trước",
-        "name": "[Pre Đặt hàng] MÔ HÌNH Megurine Luka - Vocaloid - Nendoroid (#2646) - Symphony Ver. (Good Smile Company) FIGURE CHÍNH HÃNG",
+       
+        "name": "MÔ HÌNH Megurine Luka - Vocaloid - Nendoroid (#2646) - Symphony Ver. (Good Smile Company) FIGURE CHÍNH HÃNG",
         "status": "Còn hàng",
         "brand": "SEGA",
         "category": "Category X",
@@ -252,7 +257,7 @@
         "id": 7,
         "purchased":230,
 
-        "type": "Đặt hàng",
+      
         "name": "MÔ HÌNH Hatsune Miku - Vocaloid - 2nd season Spring ver. (Taito) FIGURE CHÍNH HÃNG",
         "status": "Còn hàng",
         "brand": "TAITO",

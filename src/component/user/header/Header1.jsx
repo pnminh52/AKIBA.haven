@@ -2,8 +2,8 @@ import React from 'react'
 
 const Header1 = () => {
   return (
-   <div className="h-20 bg-gradient-to-b from-[#FFAAAA] to-[#FFDCDC]">
-      <div className='max-w-screen-xl mx-auto px-4 flex items-center justify-between h-full'>
+   <div className="h-14 bg-gradient-to-b from-[#ee9ca7] to-[#FFDCDC]">
+      <div className='max-w-screen-xl mx-auto px-8 flex items-center justify-between h-full'>
      <div className='hidden sm:block'>
      <svg focusable="false" width="18" height="14" class="icon icon--header-hamburger   " viewBox="0 0 18 14">
         <path d="M0 1h18M0 13h18H0zm0-6h18H0z" fill="none" stroke="currentColor" stroke-width="1.2"></path>
@@ -38,9 +38,14 @@ const Header1 = () => {
 </div>
 </div>
 <div className='block sm:hidden'>
+<div className='flex gap-4'>
+<svg focusable="false" width="18" height="18" class="icon icon--header-search   " viewBox="0 0 18 18">
+        <path d="M12.336 12.336c2.634-2.635 2.682-6.859.106-9.435-2.576-2.576-6.8-2.528-9.435.106C.373 5.642.325 9.866 2.901 12.442c2.576 2.576 6.8 2.528 9.435-.106zm0 0L17 17" fill="none" stroke="currentColor" stroke-width="1.2"></path>
+      </svg>
      <svg focusable="false" width="18" height="14" class="icon icon--header-hamburger   " viewBox="0 0 18 14">
         <path d="M0 1h18M0 13h18H0zm0-6h18H0z" fill="none" stroke="currentColor" stroke-width="1.2"></path>
       </svg>
+</div>
      </div>
       </div>
     </div>

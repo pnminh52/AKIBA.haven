@@ -53,7 +53,7 @@ const FigureList = () => {
         <div className="w-1/5 hidden md:block bg-white rounded-l-lg">
           <Sidebar />
         </div>
-        <div className="w-full sm:w-4/5 bg-white rounded-r-lg">
+        <div className="w-full sm:w-4/5 bg-white rounded-r-lg rounded-l-lg sm:rounded-l-none">
           <TopBar figures={figures} sortBy={sortBy} setSortBy={setSortBy} />
           <FigureGrid figures={sortedFigures} />
         </div>

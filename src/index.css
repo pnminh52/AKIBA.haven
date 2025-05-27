@@ -2,7 +2,20 @@
 .font-ancizar {
     font-family: 'Ancizar Serif', serif;
   }
-  /* Trong file index.css hoặc App.css */
+
 .text-stroke {
   -webkit-text-stroke: 0.5px white;
+}
+
+.custom-scrollbar::-webkit-scrollbar {
+  height: 4px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  background-color: #ee9ca7;
+  border-radius: 0px;
 }

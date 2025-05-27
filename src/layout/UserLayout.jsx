@@ -4,6 +4,7 @@ import Header1 from './../component/user/header/Header1';
 import Header2 from './../component/user/header/Header2';
 import Footer from './../component/footer/Footer';
 import Header3 from './../component/user/header/Header3';
+import NavigationBar from '../component/etc/NavigationBar';
 
 const UserLayout = () => {
   return (
@@ -16,6 +17,7 @@ const UserLayout = () => {
       <Outlet />
    <div>
     <Footer />
+    {/* <NavigationBar /> */}
    </div>
     </div>
   );

@@ -19,7 +19,7 @@ const Header2 = () => {
   return (
     <div className='hidden md:block'>
       <div className='bg-black flex'>
-        <div className='max-w-screen-xl  w-full text-white justify-between mx-auto px-4 flex items-center gap-8 h-10'>
+        <div className='max-w-screen-xl  w-full text-white justify-between mx-auto px-8 flex items-center gap-8 h-10'>
           {navItems.map((item) => (
             <Link
               key={item.path}
